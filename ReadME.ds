@@ -1,0 +1,8 @@
+Blog Capstone Project
+
+- more advanced Flask application
+- URL building and templating with jinja
+- jinja: a templating language built for Python
+- today project: build a very simple Blog with a number of blog posts
+- it contains title, sub-title, and can read in detail
+- 
